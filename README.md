@@ -47,7 +47,7 @@ GPT-4o-mini – for SQL generation.
 How to Run the Code
 Install dependencies (in Colab or local environment):
 Place Northwind CSV files
-Set OpenAI API key in the code 
+Set OpenAI API key in the code (CRITICAL KEY)
 Run the Python script
 Gradio interface will launch:
 Speak your question.
