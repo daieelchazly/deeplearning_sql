@@ -52,3 +52,6 @@ Run the Python script
 Gradio interface will launch:
 Speak your question.
 View generated SQL and table results
+
+
+THE SCREENSHOTS AND TRIALS ARE IN THE LAST 3 SLIDES OF THE PRESENTATION
